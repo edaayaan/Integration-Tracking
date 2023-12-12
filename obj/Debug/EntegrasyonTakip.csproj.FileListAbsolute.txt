@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\bin\Debug\EntegrasyonTakip.exe.config
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\bin\Debug\EntegrasyonTakip.exe
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\bin\Debug\EntegrasyonTakip.pdb
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.Properties.Resources.resources
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.exe
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.pdb
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.EditEntegrasyonTakip.resources
+C:\Users\Acer\Desktop\StajUygulamalarım\EntegrasyonTakip\EntegrasyonTakip\obj\Debug\EntegrasyonTakip.ListEntegrasyonTakip.resources
